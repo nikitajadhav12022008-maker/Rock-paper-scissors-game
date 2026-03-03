@@ -48,15 +48,9 @@ python --version
 
 Step 2: Download or Clone the Repository
 
-git clone https://github.com/your-username/Rock-paper-scissors.git
-
-Step 3: Navigate to the Project Folder
-
-cd Rock-paper-scissors
-
-Step 4: Run the Program
+Step 3: Run the Program
 ```bash
-python RPSs.py
+python RPS.py
 
 ---
 
@@ -96,7 +90,7 @@ You lose
 
 ##👩‍💻 Author:
 Nikita Jadhav
-GitHub: https://github.com/nikitajadhav12022008
+GitHub: https://github.com/nikitajadhav12022008-maker
 
 ---
 
