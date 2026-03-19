@@ -28,7 +28,7 @@ The program then determines the winner based on the game rules.
 
 rock-paper-scissors/
 │
-└── RPS.py
+└── rock_paper_scissors.py
 |___README.md
 ---
 
@@ -45,7 +45,7 @@ Step 2: Download or Clone the Repository
 
 Step 3: Run the Program
 ```bash
-python RPS.py
+python rock_paper_scissors.py
 ---
 
 ## 💡 Example Output:
@@ -55,7 +55,6 @@ Enter your choice: rock
 You chose: rock
 Computer chose: paper
 You lose 
-
 ---
 
 ## ✨ Features:
