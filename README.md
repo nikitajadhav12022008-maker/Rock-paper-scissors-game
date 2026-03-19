@@ -1,43 +1,38 @@
-###🎯Rock–Paper–Scissors Game (Python):
+## 🎯Rock–Paper–Scissors Game (Python):
 
 A simple command-line Rock–Paper–Scissors game built using Python.
 The user plays against the computer, which makes a random choice each round.
-
 ---
 
-##📌 Project Description:
+## 📌 Project Description:
 
 This is a beginner-friendly Python project that simulates the classic Rock–Paper–Scissors game.
 The user selects one of the three options, and the computer randomly chooses its move.
 The program then determines the winner based on the game rules.
-
 ---
 
-###🎮 Game Rules:
+## 🎮 Game Rules:
 
 - Rock beats Scissors
 - Scissors beats Paper
 - Paper beats Rock
 - If both choices are the same, it is a tie
-
 ---
 
-##🛠 Technologies Used:
+## 🛠 Technologies Used:
 - Python 3
 - "random" module
-
 ---
 
-###📂 Project Structure:
+## 📂 Project Structure:
 
 rock-paper-scissors/
 │
 └── RPS.py
 |___README.md
-
 ---
 
-###▶️ How to Run the Program:
+## ▶️ How to Run the Program:
 
 Step 1: Install Python
 Make sure Python is installed on your system.
@@ -51,10 +46,9 @@ Step 2: Download or Clone the Repository
 Step 3: Run the Program
 ```bash
 python RPS.py
-
 ---
 
-###💡 Example Output:
+## 💡 Example Output:
 Rock Paper Scissors Game
 Choices: rock, paper, scissors
 Enter your choice: rock
@@ -64,35 +58,31 @@ You lose
 
 ---
 
-###✨ Features:
+## ✨ Features:
 - User vs Computer gameplay
 - Random computer choice
 - Input-based interaction
 - Simple and beginner-friendly code
-
 ---
 
-##📚 What You Will Learn:
+## 📚 What You Will Learn:
 - Python functions
 - Conditional statements ("if-elif-else")
 - User input handling
 - Using the "random" module
-
 ---
 
-###🚀 Future Improvements (Optional):
+## 🚀 Future Improvements (Optional):
 - Add score tracking
 - Add multiple rounds
 - Create a graphical interface
 - Add difficulty levels
-
 ---
 
-##👩‍💻 Author:
+## 👩‍💻 Author:
 Nikita Jadhav
 GitHub: https://github.com/nikitajadhav12022008-maker
-
 ---
 
-##📜 License:
+## 📜 License:
 This project is open-source and free to use for learning purposes.
