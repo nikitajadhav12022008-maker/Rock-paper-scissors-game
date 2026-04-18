@@ -2,6 +2,7 @@
 
 A simple command-line Rock–Paper–Scissors game built using Python.
 The user plays against the computer, which makes a random choice each round.
+
 ---
 
 ## 📌 Project Description:
