@@ -31,10 +31,10 @@ The user plays against the computer, which makes a random choice each round.
 
 ## 📂 Project Structure:
 
-rock-paper-scissors/
-│
-└── rock_paper_scissors.py
-|___README.md
+- rock-paper-scissors/
+- └── rock_paper_scissors.py
+- |___README.md
+
 ---
 
 ## ▶️ How to Run the Program:
