@@ -7,9 +7,10 @@ The user plays against the computer, which makes a random choice each round.
 
 ## 📌 Project Description:
 
-This is a beginner-friendly Python project that simulates the classic Rock–Paper–Scissors game.
-The user selects one of the three options, and the computer randomly chooses its move.
-The program then determines the winner based on the game rules.
+- This is a beginner-friendly Python project that simulates the classic Rock–Paper–Scissors game.
+- The user selects one of the three options, and the computer randomly chooses its move.
+- The program then determines the winner based on the game rules.
+
 ---
 
 ## 🎮 Game Rules:
