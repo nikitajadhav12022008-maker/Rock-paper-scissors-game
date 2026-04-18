@@ -19,11 +19,14 @@ The user plays against the computer, which makes a random choice each round.
 - Scissors beats Paper
 - Paper beats Rock
 - If both choices are the same, it is a tie
+ 
 ---
 
 ## 🛠 Technologies Used:
+
 - Python 3
 - "random" module
+ 
 ---
 
 ## 📂 Project Structure:
