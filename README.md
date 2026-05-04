@@ -67,6 +67,14 @@ The user plays against the computer, which makes a random choice each round.
    
 ---
 
+## 🚀 Future Improvements (Optional):
+
+- Add score tracking
+- Add multiple rounds
+- Create a graphical interface
+- Add difficulty levels
+ 
+---
 ## ▶️ How to Run the Program:
 
 Step 1: Install Python
@@ -81,17 +89,6 @@ Step 2: Download or Clone the Repository
 Step 3: Run the Program
 ```bash
 python rock_paper_scissors.py
----
-
-
-
-
-
-## 🚀 Future Improvements (Optional):
-- Add score tracking
-- Add multiple rounds
-- Create a graphical interface
-- Add difficulty levels
 ---
 
 ## 👩‍💻 Author:
