@@ -37,6 +37,17 @@ The user plays against the computer, which makes a random choice each round.
 
 ---
 
+## 💡 Example Output:
+
+- Rock Paper Scissors Game
+- Choices: rock, paper, scissors
+- Enter your choice: rock
+- You chose: rock
+- Computer chose: paper
+- You lose 
+
+---
+
 ## ▶️ How to Run the Program:
 
 Step 1: Install Python
@@ -53,14 +64,7 @@ Step 3: Run the Program
 python rock_paper_scissors.py
 ---
 
-## 💡 Example Output:
-Rock Paper Scissors Game
-Choices: rock, paper, scissors
-Enter your choice: rock
-You chose: rock
-Computer chose: paper
-You lose 
----
+
 
 ## ✨ Features:
 - User vs Computer gameplay
