@@ -58,6 +58,15 @@ The user plays against the computer, which makes a random choice each round.
  
 ---
 
+## 📚 What You Will Learn:
+
+- Python functions
+- Conditional statements ("if-elif-else")
+- User input handling
+- Using the "random" module
+   
+---
+
 ## ▶️ How to Run the Program:
 
 Step 1: Install Python
@@ -76,12 +85,7 @@ python rock_paper_scissors.py
 
 
 
-## 📚 What You Will Learn:
-- Python functions
-- Conditional statements ("if-elif-else")
-- User input handling
-- Using the "random" module
----
+
 
 ## 🚀 Future Improvements (Optional):
 - Add score tracking
