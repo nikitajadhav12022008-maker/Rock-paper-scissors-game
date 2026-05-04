@@ -48,6 +48,16 @@ The user plays against the computer, which makes a random choice each round.
 
 ---
 
+
+## ✨ Features:
+
+- User vs Computer gameplay
+- Random computer choice
+- Input-based interaction
+- Simple and beginner-friendly code
+ 
+---
+
 ## ▶️ How to Run the Program:
 
 Step 1: Install Python
@@ -65,13 +75,6 @@ python rock_paper_scissors.py
 ---
 
 
-
-## ✨ Features:
-- User vs Computer gameplay
-- Random computer choice
-- Input-based interaction
-- Simple and beginner-friendly code
----
 
 ## 📚 What You Will Learn:
 - Python functions
